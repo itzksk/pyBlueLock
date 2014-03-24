@@ -8,7 +8,9 @@
 import bluetooth as blue
 import os
 import time
-OWNER = 'XT1033'
+import sys
+OWNER = sys.argv[1]
+#OWNER = 'XT1033'
 flag = False
 locked = False
 while True:
