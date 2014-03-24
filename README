@@ -1,0 +1,7 @@
+This is a simple python script that has to be run on your pc in the background.
+There should be a bluetooth module(built-in or external) for the PC. The owner should have his bluetooth device ON(in my case it is a smart phone).
+If the pc detects the owner in range it UNLOCKS the pc. If the owner goes out ofrange it LOCKS the pc for you.
+As of now the owner name is hardcoded in pyBlueLock.py
+Adding another few lines would make it more generic.
+
+Thank You.
