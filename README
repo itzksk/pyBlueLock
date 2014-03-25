@@ -6,4 +6,5 @@ Start the deamon  as:
 	$ python pyBlueLock your-device-name
 'your-device-name' should be replaced with your devices's name(phone's bluetooth name)
 
+NOTE: Currently works with ubuntu
 Thank You.
